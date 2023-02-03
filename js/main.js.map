@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":";;;;;AAAA;AACA;AACA;AACA;AACA;AACA,I","sources":["webpack://gulp-builder/./src/js/main.js"],"sourcesContent":["/**\n  * название функции\n  *\n  * @param {number} first - первое число\n  * @returns {number}\n  */\n"],"names":[],"sourceRoot":""}
